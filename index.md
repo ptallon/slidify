@@ -22,7 +22,7 @@ knit        : slidify::knit2slides
 <OL>
 <LI>Formula based on height and weight
 <UL>
-<LI>Metric units: $\frac{Weight}{Height^2}$, or if using Imperial units: $\frac{Weight}{Height^2}multiplied by 703$
+<LI>Metric units: $\frac{Weight}{Height^2}$, or if using Imperial units: $\frac{Weight}{Height^2}\times 703$
 </UL>
 <LI>Pediatric factors
 <UL>
